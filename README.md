@@ -6,7 +6,7 @@
 
 
 # Please change the environment variable's value before running this server
-**Mongo DB Name and Password / Redis Host and Port
+**Mongo DB Name and Password / Redis Host and Port**
 
 
 
