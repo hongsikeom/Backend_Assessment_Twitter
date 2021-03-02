@@ -1,0 +1,40 @@
+{
+  "name": "backend_assessment_twitter",
+  "version": "1.0.0",
+  "description": "Back End Assessment Task1_Twitter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongsikeom/Backend_Assessment_Twitter.git"
+  },
+  "author": "Hongsik Eom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongsikeom/Backend_Assessment_Twitter/issues"
+  },
+  "homepage": "https://github.com/hongsikeom/Backend_Assessment_Twitter#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "connect-redis": "^5.1.0",
+    "cookie-parser": "^1.4.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.11.18",
+    "redis": "^3.0.2",
+    "session-file-store": "^1.5.0",
+    "slugify": "^1.4.7",
+    "socket.io": "^3.1.2",
+    "validator": "^13.5.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
