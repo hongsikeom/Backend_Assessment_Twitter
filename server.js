@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 
 
 // Connect to the DB
-const DB = `mongodb+srv://admin:${process.env.DATABASE_PASSWORD}@cluster0.g9wax.mongodb.net/${process.env.DATABASE_NAME}?retryWrites=true&w=majority`;
+const DB = `mongodb+srv://admin:${process.env.DATABASE_PASSWORD}@cluster0.g9wax.mongodb.net/Twitter_Task?retryWrites=true&w=majority`;
 
 mongoose.connect(DB, {
     useNewUrlParser: true,
