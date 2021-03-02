@@ -1,5 +1,5 @@
 # What you can do on this server
-**- SignUp / Login / Logout
+- SignUp / Login / Logout
 - Create / Read / Update / Delete posts
 - Like or Unlike posts
 - Chat feature is eabled but not tested!
