@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 
 
 // Connect to the DB
-const DB = `mongodb+srv://admin:qxW2MPF4e4xS2nr@cluster0.g9wax.mongodb.net/Twitter_Task?retryWrites=true&w=majority`;
+const DB = `mongodb+srv://admin:{Your Cluster Password}@cluster0.g9wax.mongodb.net/Twitter_Task?retryWrites=true&w=majority`;
 
 mongoose.connect(DB, {
     useNewUrlParser: true,
