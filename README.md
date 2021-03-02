@@ -1,13 +1,17 @@
+
+# Before you start run it
+- This sever is built by Node.js
+- Please install npm packages by entering this command on the terminal or console "npm install"
+- Please change the environment variable's value before running this server
+- Please create a mongoDB server
+-- Mongo DB Name and Password / Redis Host and Port**
+
+
 # What you can do on this server
 - SignUp / Login / Logout
 - Create / Read / Update / Delete posts
 - Like or Unlike posts
 - Chat feature is eabled but not tested!
-
-
-# Please change the environment variable's value before running this server
-**Mongo DB Name and Password / Redis Host and Port**
-
 
 
 # Tools for running API web server
