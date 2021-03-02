@@ -21,7 +21,4 @@ router.route('/:post')
     .delete(postController.deletePost)
     .patch(postController.updatePost);
 
-// router.route('/:post/stat')
-// router.route('/:post/stat?react=dislike').post(postController.reactPost);
-
 module.exports = router;

@@ -4,7 +4,7 @@
   "description": "Back End Assessment Task1_Twitter",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "test",
     "start": "node server.js"
   },
   "repository": {
@@ -34,7 +34,5 @@
     "socket.io": "^3.1.2",
     "validator": "^13.5.2"
   },
-  "devDependencies": {
-    "parcel-bundler": "^1.12.4"
-  }
+  "devDependencies": {}
 }
