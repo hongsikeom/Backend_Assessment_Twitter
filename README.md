@@ -1,9 +1,10 @@
 
 # Before you start to run it
 - This server is built by Node.js
+- Please create your own cluster or email me to have the password 
+- Please install the redis-server and user mongodb
 - Please install npm packages "npm install"
 - Run the server "node server.js"
-- Please install the redis-server and user mongodb
 - Use Postman to test API https://documenter.getpostman.com/view/12623428/TWDdkuPn
 
 
