@@ -40,7 +40,7 @@ let redisClient = redis.createClient({
 
 app.use(session({
     store: new RedisStore({ client: redisClient}),
-    secret: process.env.S_SECRET,
+    secret: 'HONGS_SECRET',
     reseave: false,      // Don't not update or overwrite the session existing
     saveUnitialized: false,   // 
     // cookie:{
