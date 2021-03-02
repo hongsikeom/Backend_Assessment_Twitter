@@ -2,9 +2,9 @@
 # Before you start to run it
 - This server is built by Node.js
 - Please install npm packages by entering this command on the terminal or console "npm install"
-- Please change the environment variable's value before running this server
+- Please change the environment variable's value before running this server (Mongo DB Name and Password / Redis Host and Port)
 - Please create the MongoDB server
--- Mongo DB Name and Password / Redis Host and Port**
+
 
 
 # What you can do on this server
