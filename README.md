@@ -1,8 +1,8 @@
 # What you can do on this server
 **- SignUp / Login / Logout
-**- Create / Read / Update / Delete posts
-**- Like or Unlike posts
-**- Chat feature is eabled but not tested!
+- Create / Read / Update / Delete posts
+- Like or Unlike posts
+- Chat feature is eabled but not tested!
 
 
 # Please change the environment variable's value before running this server
