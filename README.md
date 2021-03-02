@@ -1,7 +1,7 @@
 
 # Before you start to run it
 - This server is built by Node.js
-- Please create your own cluster or email me to have the password 
+- Please create your own cluster or email me to have DB password 
 - Please install the redis-server and user mongodb
 - Please install npm packages "npm install"
 - Run the server "node server.js"
