@@ -2,6 +2,7 @@
 # Before you start to run it
 - This server is built by Node.js
 - Please install npm packages by entering this command on the terminal or console "npm install"
+- Use Postman to test API https://documenter.getpostman.com/view/12623428/TWDdkuPn
 
 
 # What you can do on this server
@@ -23,8 +24,6 @@
 
 
 
-# POSTMAN API
-https://documenter.getpostman.com/view/12623428/TWDdkuPn
 
 
 
